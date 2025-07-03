@@ -1,2 +1,9 @@
-# .gitignore
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore syngen_code directory (from previous conversation)
 syngen_code/
+
+# Add other files/directories you want to ignore below
+# e.g., __pycache__/
+# e.g., *.log
